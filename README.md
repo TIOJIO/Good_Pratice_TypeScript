@@ -1,13 +1,13 @@
 # Good Pratice Typescript
 
-##init projet
+## init projet
 
 `` npm init -y
 
-##install typescript 
+## install typescript 
 
 ``npm install --save-dev typscript 
 
-##launch projet
+## launch projet
 
 `` npx tsc mainfile.ts
